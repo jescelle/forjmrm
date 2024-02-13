@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel="stylesheet" type="text/css" href="styles.css">
+</head>
+<body>
+    <div id="card">
+        <div id="front" class="side">
+            <h1>Happy Valentine's Day!</h1>
+            <button id="open-button">Open</button>
+        </div>
+        <div id="back" class="side">
+            <h1>A special message for you...</h1>
+            <button id="close-button">Close</button>
+            <p id="content">This is where your special message will appear.</p>
+        </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
